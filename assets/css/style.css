@@ -1,0 +1,18 @@
+.test {
+	color: pink;
+}
+
+.row0 {
+	font-size: 30px;
+	text-align: center;
+	background-color: #333333;
+}
+
+.row1 {
+	float: left;
+	width: 20%;
+}
+
+.row2 {
+	float: flex;
+}
