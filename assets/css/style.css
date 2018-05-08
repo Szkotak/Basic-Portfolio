@@ -10,10 +10,12 @@
 
 .name {
 	float: left;
-    width: 960px;
+    width: 30%;
     font-size: 25px;
+    text-align: center;
 }
 
 .myinfo {
-	float: flex;
+	text-align: left;
 }
+
