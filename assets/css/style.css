@@ -10,12 +10,17 @@
 
 .name {
 	float: left;
-    width: 30%;
-    font-size: 25px;
+    width: 33%;
+    font-size: 18px;
     text-align: center;
 }
 
 .myinfo {
-	text-align: left;
+    float: left;
+    text-align: center;
 }
 
+.contact {
+    float: right;
+    width: 33%;
+}
